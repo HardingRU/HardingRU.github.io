@@ -1,0 +1,60 @@
+.myTitle {
+  font-family: 'Black Han Sans', sans-serif;
+  font-size: 45px;
+  color: #A8D0E6
+}
+
+header {
+  background-color: rgb(237,0, 52);
+}
+
+.aboutMe {
+  margin: 10px 0 50px 0;
+}
+
+footer {
+  background-color: rgb(237,0, 52);
+}
+
+.heading {
+  background-color: rgb(237,0, 52);
+}
+
+
+h1, p, h2, h3 {
+  color: rgb(237,0, 52);
+}
+
+.whiteText {
+  color: white;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+hr {
+  color: red;
+  background-color: red;
+}
+
+body {
+  /* background-color: white */
+  background-color: #A8D0E6
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(237,0, 52)
+}
+
+.card-body {
+  background-color: #A8D0E6;
+}
