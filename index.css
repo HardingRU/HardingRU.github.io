@@ -21,7 +21,8 @@ footer {
 }
 
 
-h1, p, h2, h3 {
+
+h1, p, h2, h3, li {
   color: rgb(237,0, 52);
 }
 
