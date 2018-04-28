@@ -3,10 +3,41 @@
   font-size: 45px;
   /* color: #A8D0E6 */
   color: white;
+
+}
+
+.myTitleSub {
+  font-family: 'Black Han Sans', sans-serif;
+  font-size: 25px;
+  /* color: #A8D0E6 */
+  color: white;
 }
 
 header {
   background-color: rgb(237,0, 52);
+}
+
+.rightSpan {
+  float: right;
+  margin: 0px 50px 0px 0px;
+}
+
+.leftSpan {
+  margin: 0px 0px 0px 50px;
+}
+
+.rightDiv {
+  margin: 20px 0 0 0;
+  width: 50%;
+  float: right;
+  color: rgb(237,0, 52);
+}
+
+.leftDiv {
+  margin: 20px 0 0 0;
+  width: 50%;
+  float: left;
+  color: rgb(237,0, 52);
 }
 
 .aboutMe {
@@ -42,7 +73,7 @@ hr {
 }
 
 body {
-  background-color: white
+  background-color: white;
   /* background-color: #A8D0E6 */
 }
 
