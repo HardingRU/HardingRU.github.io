@@ -14,7 +14,9 @@
 }
 
 header {
-  background-color: rgb(237,0, 52);
+  /* background-color: rgb(237,0, 52); */
+  background-color: rgb(65,105,225);
+
 }
 
 .rightSpan {
@@ -30,14 +32,14 @@ header {
   margin: 20px 0 0 0;
   width: 50%;
   float: right;
-  color: rgb(237,0, 52);
+  color: rgb(65,105,225);
 }
 
 .leftDiv {
   margin: 20px 0 0 0;
   width: 50%;
   float: left;
-  color: rgb(237,0, 52);
+  color: rgb(65,105,225);
 }
 
 .aboutMe {
@@ -45,15 +47,15 @@ header {
 }
 
 footer {
-  background-color: rgb(237,0, 52);
+  background-color: rgb(65,105,225);
 }
 
 .heading {
-  background-color: rgb(237,0, 52);
+  background-color: rgb(65,105,225);
 }
 
 h1, p, h2, h3, li {
-  color: rgb(237,0, 52);
+  color: rgb(65,105,225);
 }
 
 .whiteText {
