@@ -14,7 +14,7 @@
 }
 
 header {
-  background-color: rgb(237,0, 52);
+  background-color: rgb(0, 107, 255);
   /* background-color: rgb(65,105,225); */
 
 }
@@ -32,14 +32,14 @@ header {
   margin: 20px 0 0 0;
   width: 50%;
   float: right;
-  color: rgb(237,0, 52);
+  color: rgb(0, 107, 255);
 }
 
 .leftDiv {
   margin: 20px 0 0 0;
   width: 50%;
   float: left;
-  color: rgb(237,0, 52);
+  color: rgb(0, 107, 255);
 }
 
 .aboutMe {
@@ -47,15 +47,15 @@ header {
 }
 
 footer {
-  background-color: rgb(237,0, 52);
+  background-color: rgb(0, 107, 255);
 }
 
 .heading {
-  background-color: rgb(237,0, 52);
+  background-color: rgb(0, 107, 255);
 }
 
 h1, p, h2, h3, li {
-  color: rgb(237,0, 52);
+  color: rgb(0, 107, 255);
 }
 
 .whiteText {
@@ -70,8 +70,8 @@ h1, p, h2, h3, li {
 }
 
 hr {
-  color: red;
-  background-color: red;
+  color: rgb(0, 107, 255);
+  background-color: rgb(0, 107, 255);
 }
 
 body {
@@ -85,7 +85,8 @@ body {
     width: 50px;
     text-align: center;
     text-decoration: none;
-    color: rgb(237,0, 52)
+    /* color: rgb(237,0, 52) */
+    color: rgb(0, 107, 255)
 }
 
 .card-body {
